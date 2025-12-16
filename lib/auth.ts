@@ -45,7 +45,6 @@ export const authOptions: NextAuthOptions = {
               lastName: lastName || "",
               melliCode: melliCode || "",
               phoneNumber,
-              mdStatus: mdStatus || "",
             },
           })
         }
