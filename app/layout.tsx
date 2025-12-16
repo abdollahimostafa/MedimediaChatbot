@@ -11,27 +11,27 @@ export const metadata: Metadata = {
 const kohinoor = localFont({
   src: [
     {
-      path: "../public/fonts/Kohinoor.Arabic.Light.TTF",
+      path: "../public/fonts/Kohinoor.Arabic.Light.woff2",
       weight: "300",
       style: "normal",
     },
     {
-      path: "../public/fonts/Kohinoor.Arabic.Regular.TTF",
+      path: "../public/fonts/Kohinoor.Arabic.Regular.woff2",
       weight: "400",
       style: "normal",
     },
     {
-      path: "../public/fonts/Kohinoor.Arabic.Medium.TTF",
+      path: "../public/fonts/Kohinoor.Arabic.Medium.woff2",
       weight: "500",
       style: "normal",
     },
     {
-      path: "../public/fonts/Kohinoor.Arabic.Semibold.TTF",
+      path: "../public/fonts/Kohinoor.Arabic.Semibold.woff2",
       weight: "600",
       style: "normal",
     },
     {
-      path: "../public/fonts/Kohinoor.Arabic.Bold.TTF",
+      path: "../public/fonts/Kohinoor.Arabic.Bold.woff2",
       weight: "700",
       style: "normal",
     },
